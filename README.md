@@ -1,2 +1,2 @@
 # maglev-control-comparison
- "Comparative study of PID, LQR, and Feedback Linearization for magnetic levitation control system"
+ "Comparative Evaluation of Control Strategies for a Magnetic Levitation System: LQR, Feedback Linearization, and PID"
